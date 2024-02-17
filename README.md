@@ -3,7 +3,7 @@
 I'm a Data Scientist/Enginner and Developer. 
 
 - 🏖 BR - Fortaleza, CE, Brazil.
-- 👨‍💼 I'm currently working at Atlantic Institute.
+- 👨‍💼 I'm currently working at BTG Pactual.
 - 🎮 Games, 📚 reading and 👨‍💻 development are my hobbies.
 - 🎸 I really want to know how to play guittar, but I'm terrible.
 
